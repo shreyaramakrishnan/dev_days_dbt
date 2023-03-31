@@ -1,0 +1,4 @@
+selectors:
+  - name: sales_data
+    definition:
+      tag: sales_data

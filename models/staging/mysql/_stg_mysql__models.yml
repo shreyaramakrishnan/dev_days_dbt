@@ -1,0 +1,8 @@
+
+version: 2
+
+models:
+  - name: stg_mysql_item
+  - name: stg_mysql_line_item
+  - name: stg_mysql_purchase
+  - name: stg_mysql_user_info

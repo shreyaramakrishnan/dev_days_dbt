@@ -1,0 +1,9 @@
+version: 2
+
+sources:
+  - name: dbtdemo
+    tables:
+      - name: item
+      - name: line_item
+      - name: purchase
+      - name: user_info
