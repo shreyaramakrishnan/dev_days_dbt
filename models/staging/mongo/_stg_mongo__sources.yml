@@ -1,6 +1,6 @@
 version: 2
 
 sources:
-  - name: dbtdemo
+  - name: Dbtdemo
     tables:
-      - name: web_events
+      - name: Web_events
