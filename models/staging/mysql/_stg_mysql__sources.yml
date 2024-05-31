@@ -1,9 +1,9 @@
 version: 2
 
 sources:
-  - name: dbtdemo
+  - name: DBTDEMO
     tables:
-      - name: item
-      - name: line_item
-      - name: purchase
-      - name: user_info
+      - name: ITEM
+      - name: LINE_ITEM
+      - name: PURCHASE
+      - name: USER_INFO
