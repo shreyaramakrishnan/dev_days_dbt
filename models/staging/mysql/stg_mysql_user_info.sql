@@ -1,1 +1,1 @@
-select * from {{source('dbtdemo', 'user_info')}}
+select * from {{source('DBTDEMO', 'USER_INFO')}}
