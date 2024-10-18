@@ -1,5 +1,9 @@
 Welcome to your new dbt project!
 
+### Structure of this project
+![DAG](dag.png)
+(Green represents sources, blue - models)
+
 ### Using the starter project
 
 Try running the following commands:
